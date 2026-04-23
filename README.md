@@ -15,7 +15,6 @@
 ### ✍️ Random Dev Quote
 "Code is like humor. When you have to explain it, it’s bad." 
                                             – Cory House
----
-[![](https://komarev.com/ghpvc/?username=diyaanp11&icon=7&color=10)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
