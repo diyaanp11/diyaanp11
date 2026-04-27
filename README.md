@@ -2,7 +2,7 @@
   
   # 👋 Hello, I'm Diya Neupane
   
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=FF69B4&center=true&vCenter=true&width=435&lines=Undergraduate+Computer+Student;Full+-+Stack+Developer+in+the+making;Tech+Event+Organizer;Always+learning+new+languages+%F0%9F%90%89" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=FF69B4&center=true&vCenter=true&width=435&lines=Undergraduate+Computer+Student;Tech+Event+Organizer;Always+learning+new+languages" alt="Typing SVG" />
   
   🎓 **Undergraduate Computer Student** | 5th Semester
   
