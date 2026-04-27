@@ -1,3 +1,6 @@
+👋 Hello, I'm Diya Neupane
+🎓 Undergraduate Computer Student
+
 # 💫 About Me:
 🔭 I’m currently working on web-based projects and building solutions for student/community needs, along with improving my data analytics basics.<br>👯 I’m looking to collaborate on beginner-friendly open-source or student projects, especially related to education or social impact.<br>🤝 I’m looking for help with improving my React.js skills and understanding how to build real-world full-stack applications.<br>🌱 I’m currently learning full-stack development (React, PHP, MySQL) and strengthening my foundation in database management.<br>💬 Ask me about organizing tech events, student leadership in IT clubs, and building beginner-level management systems.<br>⚡ Fun fact — I'm in 5th semester and still don't have a "favorite language" — collecting them like Pokémon 🐉
 
